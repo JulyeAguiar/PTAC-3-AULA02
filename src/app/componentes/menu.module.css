@@ -1,0 +1,17 @@
+.cabecalho{
+    display: flex;
+    height: 100px;
+    background-color: rgb(239, 54, 236);
+}
+.cabecalho h1{
+    margin-top: 0px;
+}
+
+.footer{
+    display: flex;
+    height: 100px;
+    background-color: rgb(239, 54, 236);
+}
+.footer h1{
+    margin-bottom: 0%;
+}
