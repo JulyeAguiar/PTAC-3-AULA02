@@ -1,5 +1,7 @@
 import Menu from "./componentes/Menu"
 import Footer from "./componentes/Footer"
+import styles from "./style.css"
+
 
 
 export const metadata = {
@@ -11,6 +13,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="pt-br">
       <body>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
         <Menu/>
           {children} 
         <Footer/>
