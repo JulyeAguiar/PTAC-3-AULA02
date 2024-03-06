@@ -9,7 +9,7 @@ export default function Footer(){
             <nav>
                 <Link href="https://ead.ifms.edu.br">
                     <ul>
-                        <Image width={170} height={45} src={"https://ead.ifms.edu.br/theme/moove/pix/moodle-logo-white.png"}/>   
+                        <li><Image width={170} height={45} src={"https://ead.ifms.edu.br/theme/moove/pix/moodle-logo-white.png"}/></li>   
                     </ul>
                 </Link>
             </nav>

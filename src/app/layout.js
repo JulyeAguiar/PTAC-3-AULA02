@@ -1,6 +1,6 @@
 import Menu from "./componentes/Menu"
 import Footer from "./componentes/Footer"
-import Map from "./localizacao/Map"
+
 
 export const metadata = {
   title: 'Create Next App',
@@ -13,7 +13,6 @@ export default function RootLayout({ children }) {
       <body>
         <Menu/>
           {children} 
-        <Map/>
         <Footer/>
         </body>
     </html>
