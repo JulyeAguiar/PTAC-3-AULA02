@@ -1,7 +1,7 @@
 .cabecalho{
     display: flex;
-    height: 100px;
-    background-color: rgb(239, 54, 236);
+    height: 70px;
+    background-color: #f98012;
 }
 .cabecalho h1{
     margin-top: 0px;
@@ -10,8 +10,9 @@
 .footer{
     display: flex;
     height: 100px;
-    background-color: rgb(239, 54, 236);
+    background-color: #f98012;
+
 }
 .footer h1{
-    margin-bottom: 0%;
+    margin-bottom: 100px;
 }
